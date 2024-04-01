@@ -29,7 +29,10 @@ export default function App() {
         </a>
 
         <div className="my-4">
-          <p className="font-bold ">Nota</p><p className="text-xs  text-amber-950">Este é um lançamento exclusivo e antecipado. Seu feedback é importante para nós — por favor, envie suas impressões e sugestões para</p>
+          <p className="font-bold ">Nota</p><p className="text-xs  text-amber-950">Este é um lançamento exclusivo e antecipado. Seu feedback é importante para nós — por favor, envie suas impressões e sugestões para
+           <a 
+           className="bg-yellow-400 rounded-xl p-1 ml-1"
+           href="https://api.whatsapp.com/send?phone=+5547991399367&text=Ol%C3%A1+eu+gostaria+de+fazer+algumas+sugest%C3%B5es." target="_blank" rel="noopener noreferrer">Desenvolvedor</a></p>
         </div>
       </div>
     </div>
