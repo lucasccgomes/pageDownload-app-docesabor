@@ -11,7 +11,7 @@ export default function App() {
           Bem-vindo à Página de Download do App Doce Sabor
         </h1>
         <img src={Logo} alt="Logo" />
-        <div className="-mt-16">
+        <div className="-mt-24">
           <h2 className="font-semibold text-center mb-3  text-amber-950">Pronto para experiência?</h2>
           <h3 className="font-medium mb-2  text-amber-950">Siga estes passos para começar:</h3>
           <ol className="list-decimal text-xs  text-amber-950">
