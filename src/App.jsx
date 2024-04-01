@@ -21,7 +21,7 @@ export default function App() {
             <li className="mb-1">Abra o app, faça seu pedido e prepare-se para uma delícia!</li>
           </ol>
         </div>
-        <a href="https://drive.google.com/file/d/1PUrEHwFSSB-_wTerxabLXoXCLSgp2OuF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1mqvTJWXkbKkc5POl69ev0tM2lx0m_iCd/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <div className="flex bg-green-700 p-3 rounded-3xl text-white font-semibold mt-3">
             <img className="w-6 mr-2" src={DownloadIcon} alt="Download icon" />
             Download
