@@ -21,7 +21,7 @@ export default function App() {
             <li className="mb-1">Abra o app, faça seu pedido e prepare-se para uma delícia!</li>
           </ol>
         </div>
-        <a href="http://34.31.46.64/DoceSabor.apk" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1PUrEHwFSSB-_wTerxabLXoXCLSgp2OuF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           <div className="flex bg-green-700 p-3 rounded-3xl text-white font-semibold mt-3">
             <img className="w-6 mr-2" src={DownloadIcon} alt="Download icon" />
             Download
@@ -32,7 +32,7 @@ export default function App() {
           <p className="font-bold ">Nota</p><p className="text-xs  text-amber-950">Este é um lançamento exclusivo e antecipado. Seu feedback é importante para nós — por favor, envie suas impressões e sugestões para
            <a 
            className="bg-yellow-400 rounded-xl p-1 ml-1"
-           href="https://api.whatsapp.com/send?phone=+5547991399367&text=Ol%C3%A1+eu+gostaria+de+fazer+algumas+sugest%C3%B5es." target="_blank" rel="noopener noreferrer">Desenvolvedor</a></p>
+           href="https://api.whatsapp.com/send?phone=+5547991399367&text=Ol%C3%A1+eu+gostaria+de+fazer+algumas+sugest%C3%B5es+para+o+app+DoceSabor." target="_blank" rel="noopener noreferrer">Desenvolvedor</a></p>
         </div>
       </div>
     </div>
